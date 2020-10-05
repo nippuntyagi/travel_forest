@@ -1,11 +1,11 @@
 body, button, input {font-family: 'Questrial', sans-serif;}
 
-ul{
+ul {
   margin: 0;
   padding: 0
 }
 
-body{
+body {
   overflow-x: hidden;
   margin: 0;
 }
@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6, p, figure {
     margin: 0;
 }
 
-button, input{
+button, input {
   outline: none;
   border: none;
   color: inherit;
@@ -26,6 +26,6 @@ a {
   color: inherit;
 }
 
-p, a button, input{
+p, a, button, input {
   font-size: px-to-rem(18px);
 }
